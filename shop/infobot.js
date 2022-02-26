@@ -28,12 +28,12 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ⛎ Api : api-alphabot.herokuapp.com
 ♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeoneofc.github.io
+♉ Github : github.com/BeluNgas
 ♊ Instagram : instagram.com/zeeoneofc
 ♋ Tiktok : tiktok.com/@zeeoneofc
 ♌ Telegram : t.me/zeeoneofc
 ♎ Ch Telegram : t.me/zeeone_ofc
-♏ WhatsApp : bit.ly/zeeone_ofc
+♏ WhatsApp : wa.me/601136151330
 `}
 
 exports.infobot = infobot
